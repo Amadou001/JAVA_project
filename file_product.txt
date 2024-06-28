@@ -1,0 +1,35 @@
+Name: mango
+ProductID: 0b096b3b-7b4d-4bba-939f-73210f4f3714
+Category: fruit
+Price: 2.5 RM
+
+Name: orange
+ProductID: d65fc7c1-501e-4848-b0c6-a9232538018a
+Category: fruit
+Price: 3.0 RM
+
+Name: carrot
+ProductID: 2dd0fe7d-b80c-4300-99e4-593b20647ce1
+Category: vegetable
+Price: 0.4 RM
+
+Name: Nido
+ProductID: 41d9332d-c850-493b-a2b9-7fcc8309db9c
+Category: milk
+Price: 78.3 RM
+
+Name: patato
+ProductID: 944a5e30-0e48-48c6-b2cf-4a2e5baa2cab
+Category: vegetable
+Price: 0.9 RM
+
+Name: apple
+ProductID: c1fc1411-6e8c-4a4a-9223-0ee0ad7fc206
+Category: fruit
+Price: 6.0 RM
+
+Name: apple
+ProductID: a914b1a2-1abc-4094-a674-19a086ef9397
+Category: fruit
+Price: 1.2 RM
+
